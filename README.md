@@ -70,6 +70,4 @@ The application is designed with a user-friendly interface using JavaFX, and it 
 - **JavaFX Issues**:
   - If you encounter issues related to JavaFX, ensure that your IDE and Maven are correctly set up to include JavaFX. You might need to configure the `--module-path` and `--add-modules` arguments if running from the command line.
 
----
 
-This `README.md` should provide a clear and detailed guide for anyone who needs to understand, build, and run your project. It includes all the essential information and instructions to make the project accessible and easy to use.
