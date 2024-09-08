@@ -1,7 +1,5 @@
 # Nile Dot Com E-Store Simulation
 
-## Description
-
 Nile Dot Com is a Java-based GUI application that simulates an online e-commerce store. This application allows users to search for items from an inventory, add selected items to a shopping cart, and proceed to checkout. The application calculates subtotals, applies quantity-based discounts, computes tax, and generates a final invoice for the user. Additionally, the application logs each transaction in a CSV file for record-keeping.
 
 The application is designed with a user-friendly interface using JavaFX, and it is built and managed using Maven. It is an educational project to practice event-driven programming and simulate a basic enterprise application.
